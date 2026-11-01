@@ -1,6 +1,6 @@
 # Relay — AI-assisted service booking
 
-A responsive MVP dashboard for home-service professionals. The booking assistant can classify a customer's plain-language description as plumbing, electrical, heating/cooling, or a general home-service request, offer demo time slots, collect customer and service-address details, and save confirmed requests in the browser's local storage.
+Relay is an AI-assisted missed-call appointment booking concept that helps home-service businesses turn missed customer calls into scheduled jobs. This repository contains a responsive MVP dashboard for home-service professionals. Its booking assistant can classify a customer's plain-language description as plumbing, electrical, heating/cooling, or a general home-service request, offer demo time slots, collect customer and service-address details, and save confirmed requests in the browser's local storage.
 
 The dashboard includes a 30-day free trial followed by a $10/month plan preview, a mobile-friendly bottom navigation, and configurable appointment reminder preferences. The pricing and reminder controls are currently presentation/demo features; billing and email delivery are not connected.
 
